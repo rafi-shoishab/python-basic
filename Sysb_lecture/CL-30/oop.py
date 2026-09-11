@@ -1,0 +1,4 @@
+"""encalsulation
+    polymorphism
+    abstraction
+"""
